@@ -1,1 +1,21 @@
-"Helloooooooo World!" 
+===
+PokeMMO256
+===
+
+-What is it?
+
+PokeMMO is an online MMO version of FireRed version of the Pokemon variety. While sticking as closely to the original rom as possible, several of us wanted to enhace the graphics in the rom. Before now, we were still under the same restrictions as the rom such that we only had 16 color palettes and limited sprite sizes. But no more. With initial support for 256 colors, we decided that we need new and better tools, tools that will make you cry with joy when they are complete. The goal is to make these tools easy to use and available to any of our other friends who want to join in patching the rom and making PokeMMO more awesomer.
+
+-Sooo.... tools?
+
+Yes.
+
+-What about them? What are they going to do?
+
+The goal is to enable a person to store 256 color gifs. This includes all the encoding and stuff to get it into the rom in a manner for PokeMMO to load it. Included will be some small programs I wrote to allow for more tilesets and also another one that resizes smaller overworld sprites. Maybe eventually I'll get those into a cute little program, but I feel its probably easiest to have those in a UPS patch to be redistributed.
+
+-Anything else I should be aware of?
+
+Yes. Please help! If you have no clue how to program, you can still help by watching this projects and asking your code savy friends to contribute! While this project is in it infacy currently, it will mature very rapidly, so we need as many people as we can get!
+
+http://www.plox.net
